@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-phone-square",
+      "name": "Vehicle Inquiries",
+      "text": "You can get the details of a registered vehicle through this service.  ",
+      "link": "/Inquiry"
+    },
+
+    {
+      "icon": "fa fa-exchange",
+      "name": "Swap Deals",
+      "text": "You can exchange your old vehicle with our brand new one.",
+      "link": "/swap-deal"
+    },
+
+    {
+      "icon": "fa fa-car",
+      "name": "Test Drive",
+      "text": "If you are thinking about buying your new vehicle, you can get a test drive from us.",
+      "link": "/test-run"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Big thanks to Vehicle Solution car sale.I have purchased Mazda 3 from them and I had a great experience. And also amazed by their friendly customer service and flawless business at the entire time and I highly recommend Vehicle Solution for car buyers.",
+      "name": "Mr.Sanjana Perera"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Brilliant Service from Vehicle Solution.Recently me and my family had been trying to find the right van for us.Finally we found them and really impressed by whole business process.Even they gave us an amazing test run.We were relaxed and painless all throughout..Thanks a bunch!",
+      "name": "Mr.Yasara Wickramasinghe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Worth our 70 mile journey to the Vehicle Solution car sale ! No pressure to the customers. And our all questions are well explained and answered.The staff is highly professional and knowledgeable,Reasonable prices, And massive thanks to them and recommend to the all needers.",
+      "name": "Mr.Ravindu Sathsara"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "I have bought second hand Renegade.The jeep was well presented and even they gave me a service history which we don't get normally.From website to the purchase the whole process was outstanding.Thank you for the amazing experience.",
+      "name": "Ms.Nihinsa Rajapakshe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "After a lots of disspointment with well known car sale finally I am relived with Vehicle Solution car sale.Hassle free from inquiry to the purchase. I was able to clear all of my doubts without any pressure and the test drive that they offer was a pleasure.Hope to visit again in near future  And without hesitation recommend to the others. ",
+      "name": "Mr.Anosh Fernando"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "The Top notch service that I ever had ! As a women I had lack of knowledge about automobiles.But this is incredible,they have filled me with all the knowledge that I needed.5 star from me to the Vehicle Solution.",
+      "name": "Ms.Oshini Nawarathna"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
